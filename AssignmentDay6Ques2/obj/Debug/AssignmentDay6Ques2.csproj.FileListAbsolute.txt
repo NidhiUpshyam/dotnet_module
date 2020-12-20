@@ -1,0 +1,6 @@
+E:\.net module\AssignmentDay6Ques2\bin\Debug\AssignmentDay6Ques2.exe.config
+E:\.net module\AssignmentDay6Ques2\bin\Debug\AssignmentDay6Ques2.exe
+E:\.net module\AssignmentDay6Ques2\bin\Debug\AssignmentDay6Ques2.pdb
+E:\.net module\AssignmentDay6Ques2\obj\Debug\AssignmentDay6Ques2.csproj.CoreCompileInputs.cache
+E:\.net module\AssignmentDay6Ques2\obj\Debug\AssignmentDay6Ques2.exe
+E:\.net module\AssignmentDay6Ques2\obj\Debug\AssignmentDay6Ques2.pdb
